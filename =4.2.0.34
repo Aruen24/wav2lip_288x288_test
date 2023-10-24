@@ -1,0 +1,6 @@
+Looking in indexes: https://pypi.mirrors.ustc.edu.cn/simple
+Collecting opencv-contrib-python
+  Using cached https://mirrors.bfsu.edu.cn/pypi/web/packages/4b/5e/b3d986289c4bbb57fbad3e72e50722484123c501c6be7314f30812862a62/opencv_contrib_python-4.8.0.76-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (67.8 MB)
+Requirement already satisfied: numpy>=1.17.0 in /home/wyw/anaconda3/envs/wav2lip/lib/python3.8/site-packages (from opencv-contrib-python) (1.24.4)
+Installing collected packages: opencv-contrib-python
+Successfully installed opencv-contrib-python-4.8.0.76
