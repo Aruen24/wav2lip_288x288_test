@@ -85,7 +85,7 @@ wav2lip_train.py文件179行logloss = nn.BCELoss()改成logloss = nn.BCEWithLogi
 https://github.com/zzj1111/Preprocessed-CMLR-Dataset-For-Wav2Lip
 
 
-# 数据要求
+# 数据要求  该项目的核心就是采集数据堆数据，至少20000条视频，到一定数据量后loss才能降到合理区间，数据源抖音、快手、油管、西瓜等
 1，严格数据质量
 1.1 预外理后人脸大小尽量大于288x288(或者尽量靠近288*288)
 1.2 每人人录制视频3-10分钟
