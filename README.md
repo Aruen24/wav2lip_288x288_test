@@ -95,6 +95,10 @@ https://github.com/zzj1111/Preprocessed-CMLR-Dataset-For-Wav2Lip
 1.6 每个视频处理为3秒
 ```
 
+## result
+https://github.com/Aruen24/wav2lip_288x288_test/assets/27750891/52edcba0-556c-4665-af18-f1861729d830
+
+
 
 ## Citing
 
